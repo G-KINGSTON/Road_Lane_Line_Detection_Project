@@ -14,16 +14,14 @@ Road Lane Line Detection is a computer vision project that identifies lane marki
 ✅ Works with different road conditions  
 
 ## **📂 Project Structure**
-```
+
 📦 road-lane-detection
- ┣ 📂 data             # Sample images & videos
- ┣ 📂 src              # Source code
- ┣ 📂 models           # Pre-trained models (if applicable)
- ┣ 📜 requirements.txt # Python dependencies
- ┣ 📜 README.md        # Project description
- ┣ 📜 main.py          # Main script for detection
- ┗ 📜 LICENSE          # License file
-```
+ ┣ 📂 data             
+ ┣ 📂 src          
+ ┣ 📂 models          
+ ┣ 📜 requirements.txt 
+ ┣ 📜 README.md       
+ ┣ 📜 main.py                 
 
 ## **📸 Demo**
 🔹 **Input Image:**  
