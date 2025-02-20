@@ -10,6 +10,18 @@ Road Lane Line Detection is a computer vision project that identifies lane marki
 ✅ Uses OpenCV for image processing  
 ✅ Can be extended with deep learning for better accuracy  
 ✅ Works with different road conditions  
+
+## **📂 Project Structure**
+```bash
+📦 road-lane-detection
+ ┣ 📂 data            
+ ┣ 📂 src           
+ ┣ 📂 models           
+ ┣ 📜 requirements.txt 
+ ┣ 📜 README.md       
+ ┣ 📜 main.py          
+ ┗ 📜 LICENSE
+ ```        
               
 
 ## **📸 Demo**
