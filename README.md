@@ -2,7 +2,7 @@
 ### **Road Lane Line Detection 🚗🛣️**  
 *A computer vision project for detecting road lane lines using OpenCV and deep learning.*
 
-![Lane Detection](https://user-images.githubusercontent.com/your-image.png)  
+![Lane Detection](https://github.com/G-KINGSTON/Road_Lane_Line_Detection_Project/blob/main/LANE_TEST.jpeg?raw=true)  
 
 ## **📌 Overview**  
 Road Lane Line Detection is a computer vision project that identifies lane markings in real-time from video or images. This technology is widely used in autonomous vehicles and advanced driver-assistance systems (ADAS).  
@@ -12,20 +12,11 @@ Road Lane Line Detection is a computer vision project that identifies lane marki
 ✅ Uses OpenCV for image processing  
 ✅ Can be extended with deep learning for better accuracy  
 ✅ Works with different road conditions  
-
-## **📂 Project Structure**
-
-📦 road-lane-detection
- ┣ 📂 data             
- ┣ 📂 src          
- ┣ 📂 models          
- ┣ 📜 requirements.txt 
- ┣ 📜 README.md       
- ┣ 📜 main.py                 
+              
 
 ## **📸 Demo**
 🔹 **Input Image:**  
-![Input Road](https://user-images.githubusercontent.com/input.png)  
+![Input Road](https://github.com/G-KINGSTON/Road_Lane_Line_Detection_Project/blob/main/LANE_TEST.jpeg?raw=true)  
 🔹 **Detected Lane Lines:**  
 ![Output Lane](https://user-images.githubusercontent.com/output.png)  
 
