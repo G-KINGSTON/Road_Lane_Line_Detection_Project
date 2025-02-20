@@ -16,7 +16,7 @@ Road Lane Line Detection is a computer vision project that identifies lane marki
 🔹 **Input Image:**  
 ![Input Road](https://github.com/G-KINGSTON/Road_Lane_Line_Detection_Project/blob/main/LANE_TEST.jpeg?raw=true)  
 🔹 **Detected Lane Lines:**  
-![Output Lane](https://user-images.githubusercontent.com/output.png)  
+![Output Lane](https://github.com/G-KINGSTON/Road_Lane_Line_Detection_Project/blob/main/OUTPUT.png?raw=true)  
 
 ## **🛠 Installation**
 1️⃣ Clone the repository:  
